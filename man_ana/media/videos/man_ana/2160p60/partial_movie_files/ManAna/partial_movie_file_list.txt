@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/du18/manim/3ukath/man ana/media/videos/man_ana/2160p60/partial_movie_files/ManAna/3224974252_3699202386_3082914369.mp4'
+file 'file:/home/du18/manim/3ukath/man ana/media/videos/man_ana/2160p60/partial_movie_files/ManAna/2088414417_1818976293_1229709239.mp4'
+file 'file:/home/du18/manim/3ukath/man ana/media/videos/man_ana/2160p60/partial_movie_files/ManAna/2088414417_462538277_3351858177.mp4'
+file 'file:/home/du18/manim/3ukath/man ana/media/videos/man_ana/2160p60/partial_movie_files/ManAna/2088414417_1818976293_2905022426.mp4'
+file 'file:/home/du18/manim/3ukath/man ana/media/videos/man_ana/2160p60/partial_movie_files/ManAna/2088414417_2540877697_3309495412.mp4'
+file 'file:/home/du18/manim/3ukath/man ana/media/videos/man_ana/2160p60/partial_movie_files/ManAna/2088414417_3292237559_1750404859.mp4'
